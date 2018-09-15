@@ -15,7 +15,7 @@ Java Exception handling provides a mechanism to handle compile and runtime error
 6. java.lang.ClassNotFoundException
 7. InvalidClassException
 
-[ **unchecked exceptions** ] ()
+[ **unchecked exceptions** ] (https://www.javamadesoeasy.com/2015/11/what-are-unchecked-runtimeexceptions-in.html)
 - unchecked exceptions are also known as runtime exceptions.
 - Unchecked exceptions are those which need to be taken care at runtime.
 - The class RuntimeException and all its subclasses are unchecked exceptions.Likewise,The class Error and all its subclasses are unchecked exceptions.
@@ -42,7 +42,7 @@ Java Exception handling provides a mechanism to handle compile and runtime error
 
 [Checked vs Unchecked Exception](https://www.javamadesoeasy.com/2015/05/checked-compile-time-exceptions-and.html)
 ***
-
+Table of Content
 1. Exception definition in java 
 2. checked, unchecked Exceptions and Error 
 3. 5 keywords - try, catch, finally, throw and throws
@@ -56,8 +56,13 @@ Java Exception handling provides a mechanism to handle compile and runtime error
 * Differences between throw and throws 
 * Final, Finally and Finalize - difference and similarity
 * Difference between multiple catch block and multi catch syntax
+10. Java 7 : [Multiple Catch block](https://www.javamadesoeasy.com/2015/05/catch-block-and-automatic-resource.html)
+11. [User defined Exceptions](User defined Exceptions)
+12. Java 7 : [Automatch resource mgt](https://www.javamadesoeasy.com/2015/05/try-with-resources-in-java.html)
 
 ***
 Key points:
 1. throw keyword allows us to throw checked or unchecked exception.
 2. unchecked exceptions are automatically propagated in java. no need to throw them using Throws keyword in method definition.
+3. When catch and finally block both return value, method will ultimately return value returned by finally block irrespective of value returned by catch block. [more](https://www.javamadesoeasy.com/2015/05/what-will-happen-when-catch-and-finally.html)
+4. 
