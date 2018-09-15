@@ -44,8 +44,10 @@ Java Exception handling provides a mechanism to handle compile and runtime error
 4. java.lang.ExceptionInInitializerError [more]()
 
 [Checked vs Unchecked Exception](https://www.javamadesoeasy.com/2015/05/checked-compile-time-exceptions-and.html)
-
-[ClassNotFoundException vs NoClassDefFoundError](https://www.javamadesoeasy.com/2015/12/what-is-difference-between.html)
+ClassNotFoundException vs NoClassDefFoundError:
+[JavaRevisted](https://javarevisited.blogspot.com/2011/07/classnotfoundexception-vs.html)
+[dzone](https://dzone.com/articles/java-classnotfoundexception-vs-noclassdeffounderro)
+[JMSE](https://www.javamadesoeasy.com/2015/05/checked-compile-time-exceptions-and.html)
 
 ***
 Table of Content
