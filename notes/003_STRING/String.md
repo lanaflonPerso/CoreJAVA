@@ -1,6 +1,5 @@
-1. How to create immutable class
-https://www.journaldev.com/129/how-to-create-immutable-class-in-java
-
+## Im-mutable Class
+1. [How to create immutable class](https://www.journaldev.com/129/how-to-create-immutable-class-in-java)
 * Declare the **class as final** so it can’t be extended.
 * Make all fields **private** so that direct access is not allowed.
 * **Don’t provide setter** methods for variables
@@ -9,12 +8,18 @@ https://www.journaldev.com/129/how-to-create-immutable-class-in-java
 * Perform **cloning** of objects in the getter methods to return a copy rather than returning the actual object reference.
 * Example : https://www.javamadesoeasy.com/2015/05/creating-immutable-class-in-java.html
 
-***
-STRING IN JAVA
+2. [Mutable vs Immutable]()
 
-1. String is Im-mutable in java. Like other prg lang java also concept of string interning - store only one copy of string. thats why java comes with String pool.
-https://www.journaldev.com/797/what-is-java-string-pool
-https://www.javamadesoeasy.com/2015/05/string-pool-string-literal-pool-string.html
+***
+## STRING
+
+1. String is Im-mutable in java. Reason:
+* String pool helps in saving a lot of space for Java Runtime although it takes more time to create the String. hence less garbage collection.
+* security threats
+
+Like other prg lang java also concept of string interning - store only one copy of string. thats why java comes with [String pool](
+https://www.journaldev.com/797/what-is-java-string-pool)
+[String-Literal](https://www.javamadesoeasy.com/2015/05/string-pool-string-literal-pool-string.html)
 
 - Use string literal to get string from pool.
 - However using new operator, we force String class to create a new String object in heap space. 
@@ -27,9 +32,6 @@ public class ImmutableString {
     }
 }
 
-Adv:
-* String pool helps in saving a lot of space for Java Runtime although it takes more time to create the String. hence less garbage collection.
-* security threats
+2. String Buffer
 
-
-2. Difference between constant pool and String pool in core java
+3. String Builder

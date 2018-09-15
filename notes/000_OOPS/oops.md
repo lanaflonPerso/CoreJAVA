@@ -1,5 +1,4 @@
-Oops : 
-https://www.javamadesoeasy.com/2015/06/4-oops-object-oriented-programming.html?m=1
+[Oops](https://www.javamadesoeasy.com/2015/06/4-oops-object-oriented-programming.html?m=1)
 
 ## 1.polymorphism
 ### 1.1. Runtime polymorphism
@@ -23,4 +22,4 @@ Overriding method can throw any runtime exception in java.
 
 ***
 ## Others
-1. Difference between Abstract class and interface : https://www.javamadesoeasy.com/2015/06/10-differences-between-interface-and.html?m=1
+1. [Difference between Abstract class and interface](https://www.javamadesoeasy.com/2015/06/10-differences-between-interface-and.html?m=1)
