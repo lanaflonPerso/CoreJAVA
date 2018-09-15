@@ -3,9 +3,17 @@
 Java Exception handling provides a mechanism to handle compile and runtime errors.
 ![](https://github.com/lekhrajdinkar/CoreJAVA/blob/master/notes/003_EXCEPTION/1.PNG)
 
-**checked exceptions**
+( **checked exceptions** )[https://www.javamadesoeasy.com/2015/11/what-are-checked-compile-time.html]
 - checked exceptions are also known as compileTime exceptions.
 - Checked exceptions are those which need to be taken care at compile time.
+- Most common and frequently occurring checked (compile time)
+1. IOException
+2. FileNotFoundException
+3. EOFException
+4. SQLException
+5. java.lang.InterruptedException
+6. java.lang.ClassNotFoundException
+7. InvalidClassException
 
 **unchecked exceptions**
 - unchecked exceptions are also known as runtime exceptions.
@@ -14,10 +22,10 @@ Java Exception handling provides a mechanism to handle compile and runtime error
  
 
 **java.lang.Error**
--Error is a subclass of Throwable 
--Error indicates some serious problems that our application should not try to catch. 
--Errors are abnormal conditions in application. 
--Error and its subclasses are regarded as unchecked exceptions 
+- Error is a subclass of Throwable 
+- Error indicates some serious problems that our application should not try to catch. 
+- Errors are abnormal conditions in application. 
+- Error and its subclasses are regarded as unchecked exceptions 
 
 [Checked vs Unchecked Exception](https://www.javamadesoeasy.com/2015/05/checked-compile-time-exceptions-and.html)
 ***

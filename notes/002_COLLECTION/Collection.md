@@ -1,5 +1,5 @@
 # List
-## (ArrayList)[https://www.javamadesoeasy.com/2015/04/arraylist-in-java.html?m=1]
+(ArrayList)[https://www.javamadesoeasy.com/2015/04/arraylist-in-java.html?m=1]
 1. ArrayList is more like array with dynamic length.
 2. ordered collection of objects - maintaines insertion order.
 3. LinkedList is efficient for manipulation. LinkedList does not provide random access like Arraylist by index.
@@ -7,7 +7,7 @@
 5. Custom Arraylist : https://www.javamadesoeasy.com/2015/02/arraylist-custom-implementation.html?m=1
 6. getting unmodifiable list --> List<String> unmodifiableList = Collections.unmodifiableList(arrayList);
 
-## (linkedList)[https://www.javamadesoeasy.com/2015/04/linkedlist-in-java.html?m=1]
+(linkedList)[https://www.javamadesoeasy.com/2015/04/linkedlist-in-java.html?m=1]
 
 ***
 
