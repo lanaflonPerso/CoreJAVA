@@ -1,5 +1,6 @@
 # List
 (ArrayList)[https://www.javamadesoeasy.com/2015/04/arraylist-in-java.html?m=1]
+
 1. ArrayList is more like array with dynamic length.
 2. ordered collection of objects - maintaines insertion order.
 3. LinkedList is efficient for manipulation. LinkedList does not provide random access like Arraylist by index.

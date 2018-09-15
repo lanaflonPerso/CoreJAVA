@@ -3,7 +3,8 @@
 Java Exception handling provides a mechanism to handle compile and runtime errors.
 ![](https://github.com/lekhrajdinkar/CoreJAVA/blob/master/notes/003_EXCEPTION/1.PNG)
 
-( **checked exceptions** )[https://www.javamadesoeasy.com/2015/11/what-are-checked-compile-time.html]
+(checked exceptions)[https://www.javamadesoeasy.com/2015/11/what-are-checked-compile-time.html]
+
 - checked exceptions are also known as compileTime exceptions.
 - Checked exceptions are those which need to be taken care at compile time.
 - Most common and frequently occurring checked (compile time)
