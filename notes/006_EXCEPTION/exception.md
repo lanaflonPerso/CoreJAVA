@@ -15,7 +15,7 @@ Java Exception handling provides a mechanism to handle compile and runtime error
 6. java.lang.ClassNotFoundException
 7. InvalidClassException
 
-[ **unchecked exceptions** ] (https://www.javamadesoeasy.com/2015/11/what-are-unchecked-runtimeexceptions-in.html)
+[ **unchecked exceptions** ](https://www.javamadesoeasy.com/2015/11/what-are-unchecked-runtimeexceptions-in.html)
 - unchecked exceptions are also known as runtime exceptions.
 - Unchecked exceptions are those which need to be taken care at runtime.
 - The class RuntimeException and all its subclasses are unchecked exceptions.Likewise,The class Error and all its subclasses are unchecked exceptions.
@@ -57,7 +57,7 @@ Table of Content
 * Final, Finally and Finalize - difference and similarity
 * Difference between multiple catch block and multi catch syntax
 10. Java 7 : [Multiple Catch block](https://www.javamadesoeasy.com/2015/05/catch-block-and-automatic-resource.html)
-11. [User defined Exceptions](User defined Exceptions)
+11. [User defined Exceptions](https://www.javamadesoeasy.com/2015/05/creating-user-defined-checked-and.html)
 12. Java 7 : [Automatch resource mgt](https://www.javamadesoeasy.com/2015/05/try-with-resources-in-java.html)
 
 ***
